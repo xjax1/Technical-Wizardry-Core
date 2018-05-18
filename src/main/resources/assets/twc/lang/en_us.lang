@@ -1,0 +1,14 @@
+item.infused_stone.name=Infused Stone
+item.empowered_stone.name=Empowered Stone
+item.magical_slag.name=Magical Slag
+item.copper_slag.name=Copper Slag
+item.tin_slag.name=Tin Slag
+item.iron_slag.name=Iron Slag
+item.gold_slag.name=Gold Slag
+tile.infused_cobblestone.name=Infused Cobblestone
+tile.new_cobblestone.name=Cobblestone
+tile.empowered_cobblestone.name=Empowered Cobblestone
+tile.infused_ss.name=Infused Stone
+tile.new_stone.name=Stone
+tile.empowered_ss.name=Empowered Stone
+tile.alchemy_table.name=Alchemy Table

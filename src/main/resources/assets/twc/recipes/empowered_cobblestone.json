@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " R ",
+        "RCR",
+        " R "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:redstone_block"
+        },
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "twc:empowered_cobblestone",
+        "count": 5
+    }
+}

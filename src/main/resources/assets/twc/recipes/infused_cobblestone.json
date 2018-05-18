@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " I ",
+        "ICI",
+        " I "
+    ],
+   
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        "I":
+        {
+            "item": "minecraft:coal_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "twc:infused_cobblestone",
+        "count": 5
+    }
+}

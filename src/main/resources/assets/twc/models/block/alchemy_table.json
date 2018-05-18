@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "twc:blocks/alchemy_table_bottom",
+        "down": "twc:blocks/alchemy_table_bottom",
+        "up": "twc:blocks/alchemy_table_top",
+        "north": "twc:blocks/alchemy_table_sides",
+        "east": "twc:blocks/alchemy_table_sides",
+        "south": "twc:blocks/alchemy_table_sides",
+        "west": "twc:blocks/alchemy_table_sides"
+    }
+}
